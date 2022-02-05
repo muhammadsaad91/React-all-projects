@@ -3,6 +3,7 @@ const Data = [
             {name: 'Digital Clock',link: 'https://muhammadsaad91.github.io/React-mini-project-digital-clock-/'},
             { name:' OnClick',link:'https://muhammadsaad91.github.io/React-live-time-Onclick-/'}, 
             {name: 'Hooks OnClick',link: 'https://muhammadsaad91.github.io/React-events-and-hooks/'},
-            {name: 'Form Submit OnClick',link: 'https://muhammadsaad91.github.io/Forms-in-React-/'}
+            {name: 'Form Submit OnClick',link: 'https://muhammadsaad91.github.io/Forms-in-React-/'},
+            {name:'ToDo List Mini Project',link: 'https://muhammadsaad91.github.io/React-ToDo-list-project-/'}
 ];
 export default Data;
