@@ -4,6 +4,7 @@ const Data = [
             { name:' OnClick',link:'https://muhammadsaad91.github.io/React-live-time-Onclick-/'}, 
             {name: 'Hooks OnClick',link: 'https://muhammadsaad91.github.io/React-events-and-hooks/'},
             {name: 'Form Submit OnClick',link: 'https://muhammadsaad91.github.io/Forms-in-React-/'},
-            {name:'ToDo List Mini Project',link: 'https://muhammadsaad91.github.io/React-ToDo-list-project-/'}
+            {name:'ToDo List Mini Project',link: 'https://muhammadsaad91.github.io/React-ToDo-list-project-/'},
+            {name:'Ingormation About React',link: 'https://muhammadsaad91.github.io/React-Information-project/'}
 ];
 export default Data;
