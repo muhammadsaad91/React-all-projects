@@ -12,8 +12,7 @@ const App = () => {
 <h2>(Muhammad SaAd)</h2>
 <div className="card">
      
-
-       {Data.map(function but(value){
+       {Data.map((value)=>{
     return(
         <Buton name={value.name}
         link={value.link} />
